@@ -11,4 +11,4 @@ list:
 
 {% include modules/hackpack-item.html
   list1=page.list
-  type1="moocs" %}
+  type1="papers" %}
