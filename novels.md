@@ -25,6 +25,6 @@ list:
 
 {% include modules/hackpack-item.html
   list1=page.list.nonfiction
-  type1="nonfiction" 
+  type1="novels-nonfiction" 
   list2=page.list.fiction
-  type2="fiction" %}
+  type2="novels-fiction" %}
