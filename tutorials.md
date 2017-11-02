@@ -22,6 +22,6 @@ list:
 
 {% include modules/hackpack-item.html
   list1=page.list.blogs
-  type1="blogs" 
+  type1="tutorials-blogs" 
   list2=page.list.youtube
-  type2="youtube" %}
+  type2="tutorials-youtube" %}
