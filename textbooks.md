@@ -25,6 +25,6 @@ list:
 
 {% include modules/hackpack-item.html
   list1=page.list.general
-  type1="general" 
+  type1="textbooks-general" 
   list2=page.list.specific
-  type2="specific" %}
+  type2="textbooks-specific" %}
