@@ -16,7 +16,7 @@ Use your best judgment, and feel free to propose changes to this document in a p
 
 ## Code of Conduct
 We hold everyone to this standard, even ourselves.
-By contributing, you're agreeing to the [Hackpack's Code of Conduct](https://github.com/ucfsigai/hackpack/blob/master/CODE_OF_CONDUCT.md).
+By contributing, you're agreeing to the [Hackpack's Code of Conduct](CODE_OF_CONDUCT.md).
 If you find any unacceptable behavior, please report it to ucfsigai@gmail.com.
 
 ## How to Contribute
