@@ -36,4 +36,4 @@ YouTube channels tend to be more informative, in terms of being a way to learn t
 
 
 ## I Have Some Resources to Contribute!
-Awesome! Before submitting a pull request, please take a look at our [Guidelines for Contributing](.github/CONTRIBUTING.md); once you've understood it and have made your contribution, don't forget to follow our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md) &ndash; following both these documents will speed everything along, in terms of getting your submission added, or talking to you about it in more detail to iron out some things we think could be improved on.
+Awesome! Before submitting a pull request, please take a look at our [Guidelines for Contributing](CONTRIBUTING.md); once you've understood it and have made your contribution, don't forget to follow our [Pull Request Template](PULL_REQUEST_TEMPLATE.md) &ndash; following both these documents will speed everything along, in terms of getting your submission added, or talking to you about it in more detail to iron out some things we think could be improved on.
