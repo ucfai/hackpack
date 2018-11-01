@@ -3,6 +3,12 @@ layout: hackpack
 title: MOOCs
 
 list:
+  - title:  "fast.ai ~ ML"
+    author: "Jeremy Howard & Rachel Thomas"
+    link:   "http://course.fast.ai/ml.html"
+    tags:   ["fast.ai", "free"]
+    desc:   >
+      This is a free MOOC taught in a different way than most. Jeremy and Rachel start with the cool stuff you can do then peel back the layers, rather than starting from zero teaching you to build up. They also teach code-centric, which means you're learning how to build these algorithms as you go rather than strictly developing an understanding.
   - title:  "CS188 ~ Intro to AI"
     author: "UCBerkeley"
     link:   "ai.berkeley.edu"
