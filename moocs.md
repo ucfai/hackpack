@@ -3,6 +3,12 @@ layout: hackpack
 title: MOOCs
 
 list:
+  - title:  "fast.ai ~ DL 2"
+    author: "Jeremy Howard & Rachel Thomas"
+    link:   "https://course.fast.ai/part2.html"
+    tags:   ["fast.ai", "free"]
+    desc:   >
+      Similar to their Deep Learning (Part 1) course, fast.ai's Deep Learning (Part 2) takes a deep dive into learning how to work with cutting-edge algorithms and in highly technical problem spaces. 
   - title:  "fast.ai ~ DL 1"
     author: "Jeremy Howard & Rachel Thomas"
     link:   "http://course.fast.ai/"
