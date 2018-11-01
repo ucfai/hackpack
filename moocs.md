@@ -3,6 +3,12 @@ layout: hackpack
 title: MOOCs
 
 list:
+  - title:  "fast.ai ~ DL 1"
+    author: "Jeremy Howard & Rachel Thomas"
+    link:   "http://course.fast.ai/"
+    tags:   ["fast.ai", "free"]
+    desc:   >
+      Similar to their Machine Learning course, fast.ai's Deep Learning (Part 1) course goes through a variety of Neural Network models and develops an understanding of how these algorithms work, both on an algorithmic and a computational level.
   - title:  "fast.ai ~ ML"
     author: "Jeremy Howard & Rachel Thomas"
     link:   "http://course.fast.ai/ml.html"
